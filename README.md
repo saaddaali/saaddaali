@@ -1,13 +1,13 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Mohamed Saad DAALI</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Saad DAALI</h1>
 <h3 align="center">Powered by coffee and code</h3>
 
-- ðŸ”­ Iâ€™m currently working on **Smart Home App**
+- 🔭 I’m currently working on **Smart Home App**
 
-- ðŸŒ± Iâ€™m currently learning **Education Engineering program last year**
+- 🌱 I’m currently learning **Education Engineering program last year**
 
-- ðŸ’¬ Ask me about **Spring , React , Azure**
+- 💬 Ask me about **Spring , React , Azure**
 
-- ðŸ“« How to reach me **mohamedsaad.daali@gmail.com**
+- 📫 How to reach me **mohamedsaad.daali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
