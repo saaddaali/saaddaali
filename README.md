@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Smart Home App**
 
-- 🌱 I’m currently learning **Education Engineering program last year**
+- 🌱 I’m currently learning **Education Softawre Engineering program last year**
 
-- 💬 Ask me about **Spring , React , Azure**
+- 💬 Ask me about **Spring , React, Angular, DevSecops, Cloud**
 
 - 📫 How to reach me **mohamedsaad.daali@gmail.com**
 
