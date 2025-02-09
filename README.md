@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Education Softawre Engineering program last year**
 
-- 💬 Ask me about **Spring , React, Angular, DevSecops, Cloud**
+- 💬 Ask me about **AI, Spring, React, Angular, DevSecops, Cloud**
 
 - 📫 How to reach me **mohamedsaad.daali@gmail.com**
 
