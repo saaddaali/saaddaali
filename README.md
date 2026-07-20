@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ZYNERATOR Builder Apps. No-Code/Low-Code** and **PlotDot AI**
 
-- 🌱 I’m a **Softawre Engineer**
+- 🌱 I’m a **AI Softawre Engineer**
 
 - 💬 Ask me about **AI, Spring, React, Angular, DevSecops, Cloud**
 
